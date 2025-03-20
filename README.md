@@ -1,6 +1,6 @@
 # Pato_De_Oro_Final
 
-![0d24e597-a7cf-4a4d-8f67-a7a7f8f53d7a](https://github.com/user-attachments/assets/d00f5385-0321-4592-a95a-845ddd3dd13d)
+![PatoORO](https://github.com/user-attachments/assets/aa51b1d3-397f-4790-818b-b67dda3fc6d9)
 
 
 Diseño y Modelado

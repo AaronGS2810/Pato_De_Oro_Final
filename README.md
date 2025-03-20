@@ -1,5 +1,8 @@
 # Pato_De_Oro_Final
 
+![0d24e597-a7cf-4a4d-8f67-a7a7f8f53d7a](https://github.com/user-attachments/assets/d00f5385-0321-4592-a95a-845ddd3dd13d)
+
+
 Diseño y Modelado
 Paso 1: Definición del Tema
 

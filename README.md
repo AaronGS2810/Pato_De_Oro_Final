@@ -3,16 +3,19 @@
 ![PatoORO](https://github.com/user-attachments/assets/aa51b1d3-397f-4790-818b-b67dda3fc6d9)
 
 
-Diseño y Modelado
-Paso 1: Definición del Tema
-
-Tema: Robo de un pato de oro en Reboot Academy.
 
     Historia:
     El dia 12 de enero de 2025 robaron un pato de oro entre las 13:00 y las 14:00 en Reboot Academy. El volumen del pato robado es de 45 cm3, pesa 1 kg y esta valorado en 1 millon de Yenes.  Es necesario encontrar al culpable de este delito LETS GOOO!
 
     ¿Qué tipo de misterio se resolverá?
+    Este 12 de Marzo de 2025 ha ocurrido un gran crimen.
+
     Se trata de un crimen: el robo de un pato de oro.
+
+    El aclamado pato de oro de Reboot Academy ha sido robado de la academia. El valioso símbolo se valoraba en casi un millón de euros, sin duda una gran perdida para los implicados.
+    Las autoridades ya han empezado una búsquedad exhaustiva en la academia y sus alrededores para encontrar a los culpables. Se estima que la hora aproximada del delito fue de 13:00 a 14:00.
+
+    Ya han trasnscurrido unos días del incidente, y la investigación sigue con exhaustividad.
 
     ¿Cuáles son los personajes clave?
         Detective: Encargado de resolver el caso.

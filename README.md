@@ -15,7 +15,13 @@
     Las autoridades ya han empezado una búsquedad exhaustiva en la academia y sus alrededores para encontrar a los culpables. Se estima que la hora aproximada del delito fue de 13:00 a 14:00.
 
 =======
-    Ya han trasnscurrido unos días del incidente, y la investigación sigue con exhaustividad.
+    Ya han trasnscurrido unos días del incidente, y la investigación sigue con exhaustividad. El comisario se ha puesto en contacto contigo:
+
+Haz click para aceptar la llamada.
+
+   [![Detective Call](https://img.youtube.com/vi/P6HENIolF8o/maxresdefault.jpg)](https://youtu.be/P6HENIolF8o)
+
+ 
     
 
         Hora del crimen: Entre las 13:00 y las 14:00.
